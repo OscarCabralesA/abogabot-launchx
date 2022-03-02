@@ -1,2 +1,2 @@
 # abogabot-launchx
-LaunchX first front-end mission: "Abogabot" design 
+LaunchX first front-end practice: "Abogabot" design 
